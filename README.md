@@ -4,7 +4,10 @@ This "alt-coin" was created as a personal project out of passion for Blockchain 
 
 # Why use Bubble?
 As many may know, popular and established cryptocurrencies, such as Bitcoin and Ethereum, are rapidly climbing in difficulty due to demand and popularity.
-Bubble was created as an alternative for more accessible mining.
+Bubble was created as an alternative option for more accessible mining for hobbyists and traders alike.
+
+# Support
+Being a fully open source project, support for future development is based on community and prolonged interest.
 
 # License
 Under the MIT license, distribution, modification, and personal use is allowed and encouraged!
